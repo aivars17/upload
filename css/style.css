@@ -1,0 +1,17 @@
+.h {
+   background: red;
+}
+.teip {
+   background: yellow;
+}
+.sys {
+   background: grey;
+}
+body {
+   background: #cedce7;
+   background: -moz-linear-gradient(-45deg,  #cedce7 0%, #596a72 100%);
+   background: -webkit-linear-gradient(-45deg,  #cedce7 0%,#596a72 100%);
+   background: linear-gradient(135deg,  #cedce7 0%,#596a72 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', endColorstr='#596a72',GradientType=1 );
+   background-repeat: no-repeat;
+}
